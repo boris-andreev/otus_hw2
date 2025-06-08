@@ -12,4 +12,8 @@ func sayHello(name string) {
 
 func Func1() {
 	fmt.Println("Func 1")
-}}
+}
+
+func Func2() {
+	fmt.Println("Func 2")
+}
