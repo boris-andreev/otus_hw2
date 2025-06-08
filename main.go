@@ -25,3 +25,7 @@ func Func3() {
 func Func4() {
 	fmt.Println("Func 4")
 }
+
+func Func5() {
+	fmt.Println("Func 4")
+}
