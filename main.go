@@ -9,3 +9,7 @@ func main() {
 func sayHello(name string) {
 	fmt.Printf("Hello otus %v", name)
 }
+
+func Func1() {
+	fmt.Println("Func 1")
+}}
